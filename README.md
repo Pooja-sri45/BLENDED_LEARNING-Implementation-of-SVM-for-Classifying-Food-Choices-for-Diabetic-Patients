@@ -74,6 +74,8 @@ for C in C_values:
 
 ![image](https://github.com/user-attachments/assets/9ccdc148-13c1-400b-a837-a172dfd8196e)
 
+![image](https://github.com/user-attachments/assets/d1efaeae-f39e-4f3e-a384-360016174ef9)
+
 ![image](https://github.com/user-attachments/assets/ad3c7f64-6e8b-42cb-835c-707fa2777d4f)
 
 ![image](https://github.com/user-attachments/assets/8fa55b6f-6498-490f-a4f2-909bf4b08a5b)
